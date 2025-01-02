@@ -43,3 +43,6 @@ simple html/js information gathering web app
 
 # DISCLAIMER
 ○ EDUCATIONAL PURPOSES ONLY
+
+# Hosted
+https://binarywinery.github.io/ClickChaos/src/getid.html
