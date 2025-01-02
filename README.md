@@ -26,5 +26,20 @@ simple html/js information gathering web app
 ○ Camera Permission -> to capture Camera shot
 ○ Sound Permission -> to capture Microphone sound (7 sec- default)
 
+# Run
+○ Download the files and host the files in apache2,python http server ...etc (wherever)
+○ open browser and go to ([url]/src/getid.html)
 
-# EDUCATIONAL PURPOSES ONLY
+# Made with
+○ HTML
+○ CSS 
+○ JAVASCRIPT
+
+# Drawbacks 
+○ Doesnt works with a backend server (telegram bot token/user chat id can be exposed (base64 encoded))
+
+# Requirements
+○ OS :  Anything that can host these static websites 
+
+# DISCLAIMER
+○ EDUCATIONAL PURPOSES ONLY
